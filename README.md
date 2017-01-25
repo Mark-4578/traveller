@@ -1,9 +1,3 @@
-# Traveller Guide
-# Offline Local Assistant
-# Gorup Project
-# Members
-  Shubham Rana 1407005
-  Vikash Kumar 1407010
-  Sujeet Raj Vats 1407027
-  Abhijeet Anand 1407019
+# Traveller Guide & Offline Local Assistant(group project)
+# It helps in checking local weather, gives information about near by places like atm,theatre,hospital. Also helps in travelling through railway like checking trains between stations etc.
 # National Institute of Technology Patna
